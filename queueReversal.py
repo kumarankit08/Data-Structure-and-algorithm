@@ -1,6 +1,6 @@
 
 
-# Class fo Queue generation
+# Class for Queue generation
 class Queue: 
     def __init__(self): 
         self.items = [] 
