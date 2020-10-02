@@ -1,1 +1,1 @@
-# Dsa-in-java
+# Data-structure-algorithms-in-java
